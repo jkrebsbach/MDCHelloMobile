@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MDCPreBaked.MasterViewController.configureCell (MDCPreBaked.MasterViewController)(ObjectiveC.UITableViewCell, atIndexPath : ObjectiveC.NSIndexPath) -&gt; ():MasterViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.fetchedResultsController.objectAtIndexPath(indexPath)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
